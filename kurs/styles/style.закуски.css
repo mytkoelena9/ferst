@@ -1,0 +1,80 @@
+
+body{ font-family: monospace;
+  background:rgb(18, 112, 112);
+  
+  
+}
+
+
+.continer{
+  width: 1024px;
+  margin: 0px auto;
+  padding: 0px 13px;
+
+}
+
+
+  /*titletext*/ 
+
+  .text {display: -moz-inline-stack;
+    background: #eece01;   
+    color: rgb(255, 255, 255);
+    border-radius: 20px;
+    margin-bottom: 15px;
+  }
+
+
+h1 {font-size: 35px;
+  padding: 5px 335px;
+  margin-bottom: 15px;
+  font-family:'Courier New', Courier, monospace;
+  
+}
+  
+
+
+.button{
+  display: inline-block;
+  background: rgb(18, 112, 112);
+    color: azure;
+    
+    text-decoration: none;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 18px;
+    width: 300px;
+    height: 23px;
+    padding: 18px ;
+    
+    font-family:'Courier New', Courier, monospace;
+    box-shadow: 6px 6px 10px rgb(17, 17, 17); }
+    
+  .box{
+  background-color: rgb(243, 245, 245); 
+  flex-basis: 40px;
+  padding: 3rem 20rem ;
+  border-radius: 20px;
+  background-image: url(../img/холоднізакуски.jpg) }
+
+    a:hover
+{ background: rgb(171, 175, 175);}
+
+
+
+
+
+  /*cold-snacks*/ 
+ 
+
+
+.link {
+  display: inline-block;
+  padding: 10px 15px;
+  border-radius: var(--border-radius-block);
+  text-decoration: none;
+  color: rgb(18, 112, 112);
+}
+
+.link:hover { opacity: 0.85;
+  background: #eece01;   
+}

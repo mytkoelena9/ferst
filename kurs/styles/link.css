@@ -1,0 +1,13 @@
+.link {
+  display: inline-block;
+  padding: 10px 15px;
+  border-radius: var(--border-radius-block);
+  text-decoration: none;
+  color: #fff;
+  background-color: var(--color-primary);
+}
+
+.link:hover {
+  opacity: 0.85;
+  
+}

@@ -1,0 +1,131 @@
+
+body{ font-family: monospace;
+  background:rgb(18, 112, 112);
+  
+  
+}
+
+
+.page__main {
+  max-width: 1024px;
+  margin: auto;
+  
+}
+
+
+  /*titletext*/ 
+.text {display: -moz-inline-stack;
+  background: #f3d034;   
+  color: rgb(255, 255, 255);
+  border-radius: 20px;
+  margin-bottom: 15px;
+}
+  
+h1 {font-size: 40px;
+  padding: 5px 425px;
+  margin-bottom: 15px;
+  font-family:'Courier New', Courier, monospace;
+  }
+  
+
+
+
+.button1 {
+  display: inline-block;
+  background: rgb(18, 112, 112);
+    color: azure;
+    
+    text-decoration: none;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 18px;
+    width: 300px;
+    height: 23px;
+    padding: 18px ;
+    
+    font-family:'Courier New', Courier, monospace;
+    box-shadow: 6px 6px 10px rgb(17, 17, 17);
+ 
+          
+    
+    }
+    .button2{
+      display: inline-block;
+      background: rgb(18, 112, 112);
+    color: azure;
+    
+    text-decoration: none;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 18px;
+    width: 300px;
+    height: 23px;
+    padding: 18px ;
+    
+    box-shadow: 6px 6px 6px rgb(17, 17, 17);
+    font-family:'Courier New', Courier, monospace
+        }
+        .button3 {
+          display: inline-block;
+          background: rgb(18, 112, 112);  
+          color: azure;
+          
+          text-decoration: none;
+          text-align: center;
+          border-radius: 20px;
+          font-size: 18px;
+          width: 300px;
+          height: 23px;
+          padding: 18px ;
+          
+          box-shadow: 6px 6px 6px rgb(17, 17, 17);
+          font-family:'Courier New', Courier, monospace
+         
+              
+            }
+            .button4 {
+              display: inline-block;
+              background: rgb(18, 112, 112);  
+              color: azure;
+              
+              text-decoration: none;
+              text-align: center;
+              border-radius: 20px;
+              font-size: 18px;
+              width: 300px;
+              height: 23px;
+              padding: 18px ;
+              box-shadow: 6px 6px 6px rgb(17, 17, 17);
+             
+              font-family:'Courier New', Courier, monospace}
+
+  .box{ 
+  flex-basis: 40px;
+  padding: 3rem 20rem ;
+  border-radius: 20px;
+  background-image: url(../img/десерти2.jpg) }
+
+
+
+    a:hover
+{ background: rgb(173, 175, 171);}
+
+
+
+
+
+  /*cold-snacks*/ 
+ 
+
+
+.link {
+  display: inline-block;
+  padding: 10px 15px;
+  border-radius: var(--border-radius-block);
+  text-decoration: none;
+  color: rgb(18, 112, 112);
+}
+
+.link:hover { opacity: 0.85;
+  background:#f3d034;
+}

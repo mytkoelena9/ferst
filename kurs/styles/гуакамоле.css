@@ -1,0 +1,91 @@
+body{ font-family: monospace;
+  background: rgb(18, 112, 112);
+  
+}
+  
+
+
+  
+ 
+
+ h3{
+  margin-left: 5px;
+  margin-top: -20px;
+  font-size: 18px;
+font-family:'Courier New', Courier, monospace; 
+}
+
+
+.img{
+
+  display: inline-block;
+  border-radius: 20px;
+  background-image: url(../img/гуакамоле3.jpg);
+  width: 330px;
+  height: 300px;
+  left: 40px;
+  top: 30px;
+  box-shadow: 6px 6px 10px rgb(17, 17, 17);}
+
+
+  .box{
+    background-color: rgb(243, 245, 245); 
+    flex-basis: 40px;
+    padding: 3rem 20rem ;
+    border-radius: 20px;
+    
+    
+    
+    position: absolute;
+    width: 520px;
+    height: 319px;
+    left: 120px;
+    top: 80px;}  
+    
+  /*sidebar*/ 
+  
+  .sidebar{
+  position: absolute;
+  width: 370px;
+  height: 319px;
+  left: 40px;
+  top: 40px;
+  }
+  
+  
+  .ingredients
+  { position: absolute;
+    width: 400px;
+    height: 100px;
+    top: 170px;
+    left: 2px;
+    
+    
+    
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 22px;
+    margin: 10px;
+    font-family:'Courier New', Courier, monospace;
+    
+    
+    color: #000000;}
+  
+    
+  .preparation{
+   position: absolute;
+  width: 500px;
+  height: 100px;
+  left: 500px;
+  top:60px;
+  
+  font-family:'Courier New', Courier, monospace;
+  
+  font-style: normal;
+  font-weight: 200;
+  font-size: 20px;
+  line-height: 28px;}
+
+
+
